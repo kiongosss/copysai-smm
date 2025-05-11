@@ -47,6 +47,6 @@
 
 ## Getting Help
 
-- Help button in top navigation
+- Live Help support via Tawk.to 
 - Email support available
 - Tutorial videos for key features IF REQUIRED by customer?

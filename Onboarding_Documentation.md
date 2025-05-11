@@ -1,4 +1,4 @@
-# SocialVibe User Sign-Up & Feature Guide
+# copysAI User Sign-Up & Feature Guide
 
 ## Sign-Up Process
 

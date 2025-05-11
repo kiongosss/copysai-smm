@@ -48,6 +48,5 @@
 ## Getting Help
 
 - Help button in top navigation
-- Documentation in knowledge base
 - Email support available
-- Tutorial videos for key features
+- Tutorial videos for key features IF REQUIRED by customer?
